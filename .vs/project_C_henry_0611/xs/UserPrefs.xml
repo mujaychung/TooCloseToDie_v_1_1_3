@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D94BBA4B-9C93-A673-AC1E-E99CA2786888}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ghost.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ghost.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Ghost_try.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="14" Column="28" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="13" Column="42" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="26" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dada345f-9641-4a34-8d4e-7ffe46949353" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

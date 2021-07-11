@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C17EDCC5-91C4-E89B-251B-C8230EDAC7DA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Sneezer.cs" Line="76" Column="14" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="69" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="29" Column="6" />
+      <File FileName="Assets/Scripts/Transparent.cs" Line="24" Column="49" />
+      <File FileName="Assets/Scripts/HealthyMan.cs" Line="56" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d51c6aa3-b332-4124-828a-ae066407afb7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

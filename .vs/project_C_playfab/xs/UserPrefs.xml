@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6029B6F3-2115-7676-960B-1F6238D59859}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WinScreen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayFabManager.cs" Line="66" Column="1" />
+      <File FileName="Assets/Scripts/logging.cs" Line="41" Column="55" />
+      <File FileName="Assets/Scripts/WinScreen.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/Count.cs" Line="24" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a461560-b91a-42c5-9baa-c013f56ca7fd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

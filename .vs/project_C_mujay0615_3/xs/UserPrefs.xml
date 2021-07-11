@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F5A4F75C-879F-B030-5270-9006AB1001CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WinScreen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Hero.cs" Line="140" Column="60" IsPinned="True" />
+      <File FileName="Assets/Scripts/Count.cs" Line="39" Column="29" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="95" Column="46" />
+      <File FileName="Assets/Scripts/CureControl.cs" Line="38" Column="14" />
+      <File FileName="Assets/Scripts/HealthyMan.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="8" Column="19" />
+      <File FileName="Assets/Scripts/FreezeScreen.cs" Line="18" Column="44" />
+      <File FileName="Assets/Scripts/GameOverScreen.cs" Line="23" Column="33" />
+      <File FileName="Assets/Scripts/Flashing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StartScreen.cs" Line="10" Column="6" />
+      <File FileName="Assets/Scripts/TutorialScript.cs" Line="12" Column="10" />
+      <File FileName="Assets/Scripts/WinScreen.cs" Line="23" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8ed9c6f-c80f-4d55-a936-c251f2643fe7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

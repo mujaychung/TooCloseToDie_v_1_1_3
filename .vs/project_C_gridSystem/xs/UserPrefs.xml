@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DE650DB2-2DD0-89C1-C637-0799D48181C3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ghost.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ghost.cs" Line="64" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="207b4c54-1477-4bf4-990d-28b182f9cc0a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

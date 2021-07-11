@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D09124E6-DEF2-A42C-016D-0AD6936A44BB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ghost.cs" Line="105" Column="68" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="45" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77a240c7-4eb5-4391-a18e-3a77acdd0b4a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

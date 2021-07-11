@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{87E7BA97-D5EF-7400-7773-DF2B7D698A96}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayFabManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Count.cs" Line="48" Column="54" IsPinned="True" />
+      <File FileName="Assets/Scripts/PlayFabManager.cs" Line="52" Column="53" />
+      <File FileName="Assets/Scripts/WinScreen.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/GameOverScreen.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7fb7c6ba-be16-401e-962c-a5466ab14650" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
